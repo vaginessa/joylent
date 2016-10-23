@@ -136,6 +136,15 @@ select {
   padding-left: 15px;
 }
 
+#return_home_button {
+  font-family: 'Dosis', sans-serif;
+  border: 2.5px solid black;
+  background-color: white;
+  font-size: 28px;
+  height: 50px;
+  margin-left: 75px;
+}
+
 #home_link:hover {
   color: black;
 }
