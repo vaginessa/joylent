@@ -90,6 +90,13 @@ textarea:focus, input:focus{
   font-weight: bold;
 }
 
+.heading2 {
+  font-size: 16px;
+  line-height: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
 .footer {
   background-color: #212322;
   color: #737373;
